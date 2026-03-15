@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sid Vilaasa</h1>
+<h1 align="center">Hi 👋, I'm Sidvilaasa</h1>
 <h3 align="center">AI Engineer | Multi-Agent Systems | LangGraph Developer</h3>
 
 <p align="center">
@@ -30,7 +30,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,gcp,vscode" />
+<img src="https://skillicons.dev/icons?i=gcp,python,fastapi,git,github,docker,langchain,googleadk,vscode" />
 </p>
 
 ---
@@ -97,5 +97,5 @@
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/sidvilaasa">Sid Vilaasa</a>
+⭐ From <a href="https://github.com/sidvilaasa">Sidvilaasa</a>
 </p>
