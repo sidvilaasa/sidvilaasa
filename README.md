@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-<img height="48" src="https://cdn.simpleicons.org/langchain/white"/>
+<img height="48" src="https://cdn.simpleicons.org/langchain"/>
 <img height="48" src="https://cdn.simpleicons.org/google"/>
 </p>
 
