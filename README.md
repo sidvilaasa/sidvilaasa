@@ -19,10 +19,9 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=https://www.linkedin.com/in/nagalapuram-sidvilaasa-632212237/" height="40"/>
+<a href="https://linkedin.com/in/nagalapuram-sidvilaasa-632212237/" target="_blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
 </p>
 
 ---
@@ -30,7 +29,12 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=gcp,python,fastapi,git,github,docker,langchain,googleadk,vscode" />
+<img src="https://skillicons.dev/icons?i=gcp,python,fastapi,angular,cpp,mysql,git,github,docker,vscode" />
+</p>
+
+<p align="center">
+<img height="48" src="https://cdn.simpleicons.org/langchain/white"/>
+<img height="48" src="https://cdn.simpleicons.org/google"/>
 </p>
 
 ---
@@ -80,13 +84,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # ⭐ Profile Views
 
