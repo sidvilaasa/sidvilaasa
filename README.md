@@ -20,12 +20,9 @@
 
 <p align="left">
 <a href="https://linkedin.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img align="center" src="https://skillicons.dev/icons?i=https://www.linkedin.com/in/nagalapuram-sidvilaasa-632212237/" height="40"/>
 </a>
 
-<a href="https://twitter.com" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
 </p>
 
 ---
@@ -33,7 +30,7 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,aws,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,docker,gcp,vscode" />
 </p>
 
 ---
